@@ -1,0 +1,18 @@
+.authorization {
+  font-family: 'Inter', sans-serif;
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1470px;
+    margin: 2rem auto;
+    padding: 0 15px;
+    gap: 3rem;
+    box-sizing: border-box;
+  }
+
+  &__greating {
+    flex: 0 0 35%;
+    margin: 0 auto;
+  }
+}

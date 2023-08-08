@@ -1,0 +1,107 @@
+body:has(.helpCenter),
+html:has(.helpCenter) {
+  height: 100%;
+}
+
+.helpCenter {
+  height: 100%;
+  font-family: 'Inter', sans-serif;
+
+  &__container {
+    max-width: 1470px;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+
+  &__content {
+    width: 100%;
+    padding: 0 15px;
+    background-color: #b9a9fb;
+  }
+
+  &__cube {
+    position: relative;
+    width: 100%;
+    height: max-content;
+    padding: 40px 24px 0;
+    background-color: #b9a9fb;
+  }
+
+  &__title {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    letter-spacing: -.8px;
+    line-height: 48px;
+  }
+
+  &__img {
+    position: relative;
+    top: -50px;
+    left: -50px;
+    width: 270px;
+  }
+
+  &__info {
+    padding: 0 24px 40px;
+  }
+}
+
+@media (min-width: 768px) {
+  .helpCenter {
+    background: linear-gradient(270deg, transparent 50%, #b9a9fb 50%);
+
+    &__img {
+      position: static;
+    }
+
+    &__container {
+      display: flex;
+    }
+
+    &__content {
+      display: flex;
+      flex: 1 0 50%;
+      width: 50%;
+    }
+
+    &__cube {
+      position: sticky;
+      top: 80px;
+    }
+
+    &__info {
+      flex: 1 0 50%;
+      width: 50%;
+    }
+
+    &__title {
+      font-size: 64px;
+      font-style: normal;
+      font-weight: 800;
+      letter-spacing: -1.28px;
+      line-height: 64px;
+    }
+  }
+}
+
+@media (min-width: 1024px) {
+  .helpCenter {
+    &__img {
+      width: 620px;
+      transform: translateX(-23%) translateY(-9%);
+    }
+  }
+}
+
+@media (min-width: 1440px) {
+  .helpCenter {
+    &__title {
+      font-size: 80px;
+      font-style: normal;
+      font-weight: 800;
+      letter-spacing: -1.6px;
+      line-height: 80px;
+    }
+  }
+}

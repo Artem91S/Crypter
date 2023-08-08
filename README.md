@@ -1,8 +1,7 @@
 A great multi-page site for selling NFTs. <img width="872" alt="Снимок экрана 2023-08-08 в 08 24 30" src="https://github.com/Artem91S/Crypter/assets/115031070/a56e4b8d-95f2-431c-a966-ff31e8730bea">
-
 There was a final project and i was working in team of 8 people. The link on our repositories https://github.com/marcik357/fe_14__final_project.git.
 <br/>
-Main technologies: <b>React, Redux, Node JS, Mongo DB, Express, Frame-motion, Swiper, CSS modules.</b> 
+Main technologies: <b><span color='#FFF' padding='5px' background='#000' opacity='0.5' >React</span>, Redux, Node JS, Mongo DB, Express, Frame-motion, Swiper, CSS modules.</b> 
 <br/>
 In my work, I solved the following tasks.
 <br/>

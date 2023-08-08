@@ -6,5 +6,6 @@ Work with the login token for users, Work with the server to reproduce informati
 Development of a mechanism for adding goods to the cart,Introduction of the mint mechanism and its full implementation. 
 I used Frame-motion, Swiper, Css modules for styling the page.
 I deploy the site on vercel, this is the link on it https://crypter-ten.vercel.app.
+
 https://github.com/Artem91S/Crypter/assets/115031070/206795d7-db9b-432c-aa33-7e06cfc21d50
 

@@ -9,5 +9,4 @@ I deploy the site on vercel, this is the link on it https://crypter-ten.vercel.a
 
 
 
-https://github.com/Artem91S/Crypter/assets/115031070/9a0120a5-da8e-43da-858c-2c4b39cd5c13
 

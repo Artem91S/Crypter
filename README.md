@@ -7,3 +7,7 @@ Development of a mechanism for adding goods to the cart,Introduction of the mint
 I used Frame-motion, Swiper, Css modules for styling the page.
 I deploy the site on vercel, this is the link on it https://crypter-ten.vercel.app.
 
+
+
+https://github.com/Artem91S/Crypter/assets/115031070/9a0120a5-da8e-43da-858c-2c4b39cd5c13
+
